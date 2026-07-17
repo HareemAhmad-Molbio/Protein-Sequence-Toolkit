@@ -234,11 +234,11 @@ Protein-Sequence-Toolkit/
 
 # 🔄 Software Workflow
 
-```text
+
 The Protein Sequence Toolkit follows a modular workflow that separates data input, validation, scientific computation, and visualization. This architecture improves readability, maintainability, testing, and future extensibility.
 
 <p align="center">
-  <img src="docs/software_workflow.png" alt="software_workflow" width="900">
+  <img src="screenshots/software_workflow.png" alt="Software Workflow" width="100%">
 </p>
 
 ### Workflow Description
@@ -273,7 +273,7 @@ The analysis pipeline consists of the following stages:
    - Console summary
    - High-resolution figures
    - Publication-ready dashboard
-```
+
 ---
 
 # Testing

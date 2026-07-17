@@ -238,7 +238,7 @@ Protein-Sequence-Toolkit/
 The Protein Sequence Toolkit follows a modular workflow that separates data input, validation, scientific computation, and visualization. This architecture improves readability, maintainability, testing, and future extensibility.
 
 <p align="center">
-  <img src="docs/software_workflow.png" alt="Software_Workflow" width="900">
+  <img src="docs/software_workflow.png" alt="software_workflow" width="900">
 </p>
 
 ### Workflow Description

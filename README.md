@@ -67,7 +67,7 @@ Current Version (**v1.0**) includes:
 # Protein Analysis Dashboard
 
 <p align="center">
-<img src="screenshots/dashboard.png" width="100%">
+<img src="screenshots/protein_dashboard.png" width="100%">
 </p>
 
 The Protein Analysis Dashboard provides a consolidated overview of the analyzed protein, including:
@@ -229,11 +229,12 @@ Protein-Sequence-Toolkit/
 ├── constants.py
 ├── io_utils.py
 └── visualization.py
-
+```
 ---
 
-## 🔄 Software Workflow
+# 🔄 Software Workflow
 
+```text
 The Protein Sequence Toolkit follows a modular workflow that separates data input, validation, scientific computation, and visualization. This architecture improves readability, maintainability, testing, and future extensibility.
 
 <p align="center">
@@ -272,6 +273,8 @@ The analysis pipeline consists of the following stages:
    - Console summary
    - High-resolution figures
    - Publication-ready dashboard
+```
+---
 
 # Testing
 
@@ -285,7 +288,7 @@ pytest
 
 Current status:
 
-```
+```text
 ==============================
 12 passed
 ==============================
